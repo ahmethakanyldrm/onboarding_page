@@ -19,4 +19,9 @@ class ConstantsStyle {
     fontSize: 22,
     fontWeight: FontWeight.w400,
   );
+  static var splashStyle = TextStyle(
+    color: ConstantColor.gray,
+    fontSize: 24,
+    fontWeight: FontWeight.bold,
+  );
 }
